@@ -5,7 +5,7 @@
     <title>Факти за България</title>
   </head>
   <body>
-    <div class="content-center">
+    <div class="flex content-center">
       <h1>Факти за България</h1>
       <img src="bulgaria-map.png" />
       <table>
