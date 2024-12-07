@@ -1,10 +1,11 @@
 <html>
   <head>
     <meta charset="UTF-8"/>
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>Факти за България</title>
   </head>
   <body>
-    <div align="center">
+    <div class="content-center">
       <h1>Факти за България</h1>
       <img src="bulgaria-map.png" />
       <table>
