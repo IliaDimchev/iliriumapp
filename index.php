@@ -5,7 +5,7 @@
     <title>Факти за България</title>
   </head>
   <body>
-    <header>
+    <header class="flex flex-row space-between">
       <img src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
 
       <nav>
