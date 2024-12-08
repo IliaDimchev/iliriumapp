@@ -7,6 +7,13 @@
   <body>
     <header>
       <img src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
+
+      <nav>
+      <a href="index.php">Home</a>
+      <a href="index.php">Home</a>
+      <a href="index.php">Home</a>
+      <a href="index.php">Home</a>
+      </nav>
     </header>
 
     <section class="flex flex-col content-center w-screen">
