@@ -6,7 +6,7 @@
   </head>
   <body>
     <header class="flex flex-row space-between">
-      <img src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
+      <img class="w-1/2" src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
 
       <nav>
       <a href="index.php">Home</a>
