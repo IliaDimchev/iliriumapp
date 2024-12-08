@@ -7,7 +7,7 @@
   <body>
     <div class="flex flex-col content-center w-screen">
       <h1>Факти за България</h1>
-      <img src="bulgaria-map.png" />
+      <img src="assets/images/bulgaria-map.png" />
       <table>
         <tr>
           <td>Площ</td>
