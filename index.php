@@ -5,9 +5,13 @@
     <title>Факти за България</title>
   </head>
   <body>
+    <header>
+      <img src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
+    </header>
+
     <section class="flex flex-col content-center w-screen">
       <h1>Факти за България</h1>
-      <img src="assets/images/bulgaria-map.png" />
+      <img src="assets/images/bulgaria-map.png" alt="Bulgaria Map" />
       <table>
         <tr>
           <td>Площ</td>
