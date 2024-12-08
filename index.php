@@ -9,10 +9,10 @@
       <a href="index.php"><img class="w-1/2" src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/></a>
 
       <nav class="flex items-center gap-2">
-      <a href="index.php">Home</a>
-      <a href="index.php">Home</a>
-      <a href="index.php">Home</a>
-      <a href="index.php">Home</a>
+        <a class="text-blue-800 hover:text-red-800 active:text-red-800" href="index.php">Home</a>
+        <a href="index.php">Home</a>
+        <a href="index.php">Home</a>
+        <a href="index.php">Home</a>
       </nav>
     </header>
 
