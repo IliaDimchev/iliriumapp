@@ -8,7 +8,7 @@
     <header class="flex flex-row justify-between">
       <img class="w-1/2" src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/>
 
-      <nav>
+      <nav class="flex items-center gap-2">
       <a href="index.php">Home</a>
       <a href="index.php">Home</a>
       <a href="index.php">Home</a>
