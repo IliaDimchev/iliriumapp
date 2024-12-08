@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title>Факти за България</title>
   </head>
-  <body>
+  <body class="font-['Asap']">
     <header class="flex flex-row justify-between p-3">
       <a href="index.php"><img class="w-4/5" src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/></a>
 
