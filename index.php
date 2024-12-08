@@ -2,6 +2,9 @@
   <head>
     <meta charset="UTF-8"/>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title>Факти за България</title>
   </head>
   <body>
@@ -9,10 +12,10 @@
       <a href="index.php"><img class="w-4/5" src="assets/images/Ilirium-Logo-Blue.webp" alt="Ilirium - Making Development Fun And Predictable"/></a>
 
       <nav class="flex items-center gap-2">
-      <a class="text-blue-800 hover:text-red-800" href="index.php">Home</a>
-      <a class="text-blue-800 hover:text-red-800" href="index.php">Team</a>
-      <a class="text-blue-800 hover:text-red-800" href="index.php">About</a>
-      <a class="text-blue-800 hover:text-red-800" href="index.php">Contact</a>
+        <a class="text-blue-800 hover:text-red-800" href="index.php">Home</a>
+        <a class="text-blue-800 hover:text-red-800" href="index.php">Team</a>
+        <a class="text-blue-800 hover:text-red-800" href="index.php">About</a>
+        <a class="text-blue-800 hover:text-red-800" href="index.php">Contact</a>
       </nav>
     </header>
 
